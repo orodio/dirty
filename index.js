@@ -9,7 +9,7 @@ const root =
   this;
 
 const Root = styled.div`
-  background: tomato;
+  background: black;
   color: white;
 `;
 
